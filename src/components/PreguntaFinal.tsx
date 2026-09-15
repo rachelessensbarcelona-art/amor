@@ -177,7 +177,7 @@ export default function PreguntaFinal({
         )}
       </AnimatePresence>
 
-      <p className="t-posdata absolute bottom-[22px] m-0 text-[22px] text-noche-suave">
+      <p className="absolute bottom-[22px] m-0 font-[family-name:var(--font-mano)] text-[22px] leading-tight text-noche-suave">
         {final.firma}
       </p>
     </section>
